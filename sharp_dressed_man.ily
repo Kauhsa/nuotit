@@ -107,7 +107,7 @@ secondsolo = {
 }
 \markup {
     \column {
-      \line { Repeat intro and verse (verse only once) }
+      \line { Repeat verse, only once }
       \line { " " }
     }
 }
