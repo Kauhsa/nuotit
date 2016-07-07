@@ -52,7 +52,7 @@ melody = \relative d, {
     d8 r8 d4 f8 e8 d8 b8 |
     c8 r8 c4 d8 c8 bes8 a8 |
     g8 r8 g4 a8 r8 a4 |
-    bes8 r8 bes4 a4 a8 c8 |\ break
+    bes8 r8 bes4 a4 a8 c8 | \break
     d4 d4 f8 e8 d8 b8 |
     c8 r8 c4 c8 c8 d8 e8 |
     f8 r8 f4 c4 d8 c8 |
